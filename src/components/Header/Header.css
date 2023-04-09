@@ -1,0 +1,11 @@
+.logo span {
+  font-size: 18px;
+  font-weight: 700;
+}
+.menu-container li a.active {
+  color: blue;
+}
+.menu-container li a {
+  font-weight: 600;
+  margin: 0 10px;
+}
